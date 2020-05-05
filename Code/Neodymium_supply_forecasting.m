@@ -1,5 +1,5 @@
 %{
-Ryan Gutmann
+Ryan Gutmann And Ziyad Abouelenin
 ME 635: Simulation and Modelling
 Neodymium Supply and Demand Project
 %}
